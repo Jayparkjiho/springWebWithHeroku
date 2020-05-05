@@ -17,7 +17,7 @@ import org.springframework.orm.hibernate5.LocalSessionFactoryBean;
 import org.springframework.transaction.annotation.EnableTransactionManagement;
 
 @Configuration
-@PropertySource("classpath:database.properties")
+//@PropertySource("classpath:database.properties")
 @EnableTransactionManagement
 public class AppContext {
 	@Autowired
