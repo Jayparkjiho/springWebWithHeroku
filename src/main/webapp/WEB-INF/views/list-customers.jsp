@@ -8,7 +8,8 @@
 <title>javaguides.net</title>
 <link href="<c:url value="/resources/css/bootstrap.min.css" />"
  rel="stylesheet">
-<script src="<c:url value="/resources/js/jquery-1.11.1.min.js" />"></script>
+<%-- <script src="<c:url value="/resources/js/jquery-1.11.1.min.js" />"></script> --%>
+<script src="http://code.jquery.com/jquery-1.11.1.js" integrity="sha256-MCmDSoIMecFUw3f1LicZ/D/yonYAoHrgiep/3pCH9rw=" crossorigin="anonymous"></script>
 <script src="<c:url value="/resources/js/bootstrap.min.js" />"></script>
 </head>
 <body>
