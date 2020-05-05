@@ -1,5 +1,5 @@
 Manifest-Version: 1.0
-Implementation-Title: SampleMavenWebProject Maven Webapp
+Implementation-Title: SampleMavenWebProject
 Implementation-Version: 1.0
 Build-Jdk-Spec: 1.8
 Created-By: Maven Integration for Eclipse

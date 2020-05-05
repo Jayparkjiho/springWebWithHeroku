@@ -17,7 +17,7 @@
     <version>2.1.6.RELEASE</version>
     <relativePath/>
   </parent>
-  <name>SampleMavenWebProject Maven Webapp</name>
+  <name>SampleMavenWebProject</name>
   <!-- FIXME change it to the project's website -->
   <url>http://maven.apache.org</url>
     <properties>
